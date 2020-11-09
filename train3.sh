@@ -1,5 +1,3 @@
-source ~/NLP/.nlp_env/bin/activate
-
 cd "$(dirname "$0")"
 
 cat /proc/driver/nvidia/version
